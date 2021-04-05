@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yejiseo0725
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... <Digital Nomad>
 - 🌱 I’m currently learning ... <C# and JavaScript>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... <yejiseo0725@gmail.com>

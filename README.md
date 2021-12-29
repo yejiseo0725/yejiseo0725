@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yejiseo0725
-- 👀 I’m interested in ... <Be Digital Nomad as Frondend>
+- 👀 I’m interested in ... Frontend
 - 🌱 I’m currently learning ... <HTML, CSS and JavaScript>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... <yejiseo0725@gmail.com>
